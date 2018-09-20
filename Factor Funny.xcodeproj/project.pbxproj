@@ -12,6 +12,7 @@
 		C409D92A2153417700DFF948 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C409D9282153417700DFF948 /* Main.storyboard */; };
 		C409D92C2153417800DFF948 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C409D92B2153417800DFF948 /* Assets.xcassets */; };
 		C409D92F2153417800DFF948 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C409D92D2153417800DFF948 /* LaunchScreen.storyboard */; };
+		C409D9372153436900DFF948 /* tobias-van-schneider-230167-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C409D9362153436800DFF948 /* tobias-van-schneider-230167-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C409D92B2153417800DFF948 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C409D92E2153417800DFF948 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C409D9302153417800DFF948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C409D9362153436800DFF948 /* tobias-van-schneider-230167-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tobias-van-schneider-230167-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C409D9242153417700DFF948 /* AppDelegate.swift */,
+				C409D9362153436800DFF948 /* tobias-van-schneider-230167-unsplash.jpg */,
 				C409D9262153417700DFF948 /* ViewController.swift */,
 				C409D9282153417700DFF948 /* Main.storyboard */,
 				C409D92B2153417800DFF948 /* Assets.xcassets */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C409D9372153436900DFF948 /* tobias-van-schneider-230167-unsplash.jpg in Resources */,
 				C409D92F2153417800DFF948 /* LaunchScreen.storyboard in Resources */,
 				C409D92C2153417800DFF948 /* Assets.xcassets in Resources */,
 				C409D92A2153417700DFF948 /* Main.storyboard in Resources */,
